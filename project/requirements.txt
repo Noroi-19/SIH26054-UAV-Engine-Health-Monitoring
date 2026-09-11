@@ -1,0 +1,6 @@
+pip install streamlit>=1.30
+pip install pandas>=1.5
+pip install numpy>=1.23
+pip install scikit-learn>=1.2
+pip install plotly>=5.15
+pip install joblib>=1.2
